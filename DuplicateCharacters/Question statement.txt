@@ -1,0 +1,1 @@
+Implement an algorithm to detect if the given string has all unique characters.
