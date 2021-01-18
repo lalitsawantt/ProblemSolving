@@ -1,0 +1,16 @@
+Given two strings, check whether one is the permutation of the other.
+For example : 
+
+1.
+
+string 1 = hello world
+string 2 = wrold olhle
+
+here, the strings are permutations of each other since they contain the same characters.
+
+2.
+
+string 1 = hello world
+string 2 = chocolate
+
+here, the strings are not permutations of each other since they do not contain the same characters.
