@@ -1,0 +1,4 @@
+Given a string, replace every space with the string "%20".
+For example : 
+input string : "Hello World"
+output string : "Hello%20World"
