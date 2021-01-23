@@ -40,7 +40,7 @@ public class Main {
     static void setZeroes(int [][] matrix){
         boolean rowHasZero = false;
         boolean colHasZero = false;
-        
+
         for(int j = 0; j < matrix[0].length; j++){
             if(matrix[0][j] == 0){
                 rowHasZero = true;
